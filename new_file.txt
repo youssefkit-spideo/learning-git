@@ -4,3 +4,4 @@ new
 new remote
 new local 1
 new remote 1
+new local 2
