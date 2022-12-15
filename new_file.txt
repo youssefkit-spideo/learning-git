@@ -6,3 +6,4 @@ new local 1
 new remote 1
 new local 2
 new remote 2
+Your branch is behind 'origin/feature-xyz' by 1 commit, and can be fast-forwarded.
